@@ -1,8 +1,8 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Riley Walburger's Resume
 ---
-# Brigham Young
+# Riley Walburger
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
