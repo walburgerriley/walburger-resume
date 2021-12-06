@@ -67,7 +67,7 @@ _Project member_
 `Jan 2021 – Apr 2021`
 
 __BYU – Idaho__, 
- _Volunteer Consultant_ 
+_Volunteer Consultant_ 
 - Completed volunteer project on credits taken by students at BYU-I.
 - Ran Linear models over data to show projected credit loads of students.
 
@@ -80,7 +80,7 @@ __The Church of Jesus Christ of Latter-Day Saints__, Australia
 _Missionary,_  
 
 ### Skills and Certifications
- Certified in Excel.
+- Certified in Excel.
 - Proficient in VBA, C++, SQL, and Python.
 - Completed multiple projects in R – Studio.
 <!-- ### Footer
