@@ -1,8 +1,6 @@
 ---
-
 layout: cv
 title: Riley Walburger's Resume
-
 ---
 # Riley Walburger
 
@@ -19,7 +17,6 @@ title: Riley Walburger's Resume
 ## Education
 
 `Dec 2022`
-
 __Brigham Young University-Idaho__, Rexburg, ID
 
 - Bachelor of Science in Economics Dec 2022
@@ -83,6 +80,7 @@ _Missionary,_
 - Certified in Excel.
 - Proficient in VBA, C++, SQL, and Python.
 - Completed multiple projects in R – Studio.
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
