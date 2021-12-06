@@ -1,87 +1,72 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Riley Walburger's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+I made Changes
+# Riley Walburger
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
+walbrile02@gmail.com | (208) 403-8726 | www.linkedin.com/in/riley-walburger
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+**Education**
 
-## Education
+**Brigham Young University-Idaho** Bachelor of Science in Economics Dec 2022
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+Minor in Data Science
 
-- Full academic scholarship with 4.0 GPA
+Overall GPA: 3.84
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+**Work Experience**
 
-- 4.0 Major GPA
+**Research Business Development Center**
 
+- _Project Mentor,_ Rexburg, ID Sep 2021 - Present
 
-## Related Experience
+- Managed 4 teams of 5 to 7 people each working on projects for different clients.
+- Taught and helped implement daily scrum along with weekly meeting in each team.
+- Presented trainings to over 100 people on business strategies and team building skills.
 
-### Internships
+- _Junior Analyst,_ Virtual Apr 2021 – July 2021
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+- Organized and lead daily meetings with two different teams.
+- Managed roles and assignments for 8 research specialists on my teams.
+- Completed two projects with recommendations for clients.
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+**BYU – Idaho Economics Department**
 
-### Data Science Lead
+- _Teachers Assistant,_ Rexburg, ID Sep 2020 – May 2021
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Managed and operated virtual class environment (zoom) for 26 students.
+- Taught complex principles of economics to twenty students in a microeconomics class.
+- Developed individualized lesson plans for two students weekly.
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+**Leadership and Activities**
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+**Econ and Investment Societies**
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- _Project member_ Sep 2020 – Apr 2021
 
-### Data Science Consulting Team
+- Published research project in Econ Society.
+- Presented Project to Econ Society students and faculty.
+- Participated in the study of US Steel for investing purposes.
+- Recommended investing plan for the upcoming year.
 
-`January 2027 - April 2027`
-__Imagine Learning__
+**BYU – Idaho**
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- _Volunteer Consultant_ Jan 2021 – Apr 2021
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+- Completed volunteer project on credits taken by students at BYU-I.
+- Ran Linear models over data to show projected credit loads of students.
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+**The Church of Jesus Christ of Latter-Day Saints -** _Missionary,_ Australia Jul 2017 – Jul 2019
 
+- Coordinated trainings, activities, and budgets for 6 to 24 fellow volunteers.
+- Planned, organized, and taught workshops bi-weekly on goal setting and self-improvement.
 
-## Service and Work History
+**Skills and Certifications**
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
+- Certified in Excel.
+- Proficient in VBA, C++, SQL, and Python.
+- Completed multiple projects in R – Studio.
 <!-- ### Footer
 
 Last updated: May 2013 -->
