@@ -16,6 +16,7 @@ title: Riley Walburger's Resume
 
 ## Education
 
+
 `Dec 2022`
 __Brigham Young University-Idaho__, Rexburg, ID
 
@@ -26,7 +27,6 @@ __Brigham Young University-Idaho__, Rexburg, ID
 ### Work Experience
 
 `Sep 2021 - Present`
-
 __Research Business Development Center__, Rexburg, ID
 _Project Mentor_ 
 - Managed 4 teams of 5 to 7 people each working on projects for different clients.
@@ -34,7 +34,6 @@ _Project Mentor_
 - Presented trainings to over 100 people on business strategies and team building skills.
 
 `Apr 2021 – Jul 2021`
-
 _Junior Analyst_    
 
 - Organized and lead daily meetings with two different teams.
@@ -42,7 +41,6 @@ _Junior Analyst_
 - Completed two projects with recommendations for clients.
 
 `Sep 2020 – May 2021`
-
 __BYU – Idaho Economics Department__, Rexburg, ID
 _Teachers Assistant_ 
 
@@ -53,7 +51,6 @@ _Teachers Assistant_
 ### Leadership and Activities
 
 `Sep 2020 – Apr 2021`
-
 __Econ and Investment Societies__
 _Project member_ 
 -  Published research project in Econ Society.
@@ -62,7 +59,6 @@ _Project member_
 - Recommended investing plan for the upcoming year.
 
 `Jan 2021 – Apr 2021`
-
 __BYU – Idaho__, 
 _Volunteer Consultant_ 
 - Completed volunteer project on credits taken by students at BYU-I.
@@ -72,7 +68,6 @@ _Volunteer Consultant_
 ## Service and Work History
 
 `Jul 2017 – Jul 2019`
-
 __The Church of Jesus Christ of Latter-Day Saints__, Australia
 _Missionary,_  
 
