@@ -7,7 +7,7 @@ title: Riley Walburger's Resume
 # Riley Walburger
 
 <div id="webaddress">
-<a href="walbrile02@gmail.com">walbrile02@gmail.com</a> | <a href="(208) 403-8726">(208) 403-8726</a> </div> | <a href="www.linkedin.com/in/riley-walburger">LinkedIn</a> </div> | <a href="https://github.com/walburgerriley">GitHub</a>
+<a href="walbrile02@gmail.com">walbrile02@gmail.com</a> | <a href="(208) 403-8726">(208) 403-8726</a> | <a href="www.linkedin.com/in/riley-walburger">LinkedIn</a> | <a href="https://github.com/walburgerriley">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -17,7 +17,7 @@ title: Riley Walburger's Resume
 
 `Dec 2022`
 
-__Brigham Young University-Idaho__, Salt Lake City, UT
+__Brigham Young University-Idaho__, Rexburg, ID
 
 - Bachelor of Science in Economics Dec 2022
 - Minor in Data Science
