@@ -7,9 +7,7 @@ title: Riley Walburger's Resume
 # Riley Walburger
 
 <div id="webaddress">
-<a href="walbrile02@gmail.com">walbrile02@gmail.com</a> | <a href="(208) 403-8726">(208) 403-8726</a>
-</div> | <a href="www.linkedin.com/in/riley-walburger">LinkedIn</a>
-</div> | <a href="https://github.com/walburgerriley">GitHub</a>
+<a href="walbrile02@gmail.com">walbrile02@gmail.com</a> | <a href="(208) 403-8726">(208) 403-8726</a> </div> | <a href="www.linkedin.com/in/riley-walburger">LinkedIn</a> </div> | <a href="https://github.com/walburgerriley">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
