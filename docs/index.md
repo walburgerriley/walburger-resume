@@ -2,7 +2,6 @@
 layout: resume
 title: Riley Walburger's Resume
 ---
-I made Changes
 # Riley Walburger
 
 walbrile02@gmail.com | (208) 403-8726 | www.linkedin.com/in/riley-walburger
