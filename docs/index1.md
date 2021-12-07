@@ -61,7 +61,8 @@ _Project member_
 
 `Jan 2021 – Apr 2021`
 __BYU – Idaho__, 
- _Volunteer Consultant_ 
+
+_Volunteer Consultant_ 
 - Completed volunteer project on credits taken by students at BYU-I.
 - Ran Linear models over data to show projected credit loads of students.
 
@@ -70,7 +71,10 @@ __BYU – Idaho__,
 
 `Jul 2017 – Jul 2019`
 __The Church of Jesus Christ of Latter-Day Saints__, Australia
+
 _Missionary,_  
+- Coordinated trainings, activities, and budgets for 6 to 24 fellow volunteers.
+- Planned, organized, and taught workshops bi-weekly on goal setting and self-improvement.
 
 ### Skills and Certifications
  Certified in Excel.
