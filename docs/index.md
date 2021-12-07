@@ -77,7 +77,9 @@ __The Church of Jesus Christ of Latter-Day Saints__, Australia
 _Missionary,_  
 - Coordinated trainings, activities, and budgets for 6 to 24 fellow volunteers.
 - Planned, organized, and taught workshops bi-weekly on goal setting and self-improvement.
+
 ## Skills and Certifications
+
 - Certified in Excel.
 - Proficient in VBA, C++, SQL, and Python.
 - Completed multiple projects in R – Studio.
