@@ -24,7 +24,7 @@ __Brigham Young University-Idaho__, Rexburg, ID
 - Minor in Data Science
 - Overall GPA: 3.84
 
-### Work Experience
+## Work Experience
 
 `Sep 2021 - Present`
 __Research Business Development Center__, Rexburg, ID
@@ -48,7 +48,7 @@ _Teachers Assistant_
 - Taught complex principles of economics to twenty students in a microeconomics class.
 - Developed individualized lesson plans for two students weekly.
 
-### Leadership and Activities
+## Leadership and Activities
 
 `Sep 2020 – Apr 2021`
 __Econ and Investment Societies__
@@ -71,7 +71,7 @@ _Volunteer Consultant_
 __The Church of Jesus Christ of Latter-Day Saints__, Australia
 _Missionary,_  
 
-### Skills and Certifications
+## Skills and Certifications
 - Certified in Excel.
 - Proficient in VBA, C++, SQL, and Python.
 - Completed multiple projects in R – Studio.
