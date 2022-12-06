@@ -17,16 +17,23 @@ title: Riley Walburger's Resume
 ## Education
 
 
-`Dec 2022`
+`Apr 2023`
 __Brigham Young University-Idaho__, Rexburg, ID
 
 - Bachelor of Science in Economics Dec 2022
 - Minor in Data Science
-- Overall GPA: 3.84
+- Overall GPA: 3.83
 
 ## Work Experience
+`Jun 2022 - Aug 2022`
+__Melaleuca__, Idaho Falls, ID
 
-`Sep 2021 - Present`
+_IT Business Analyst_ 
+- Wrote and presented requirements documents for three different projects.
+- Converted feature documents into smaller user stories for developers.
+- Used SQL to gather data and problem solve.
+
+`Sep 2021 - Apr 2022`
 __Research Business Development Center__, Rexburg, ID
 
 _Project Mentor_ 
@@ -80,8 +87,7 @@ _Missionary,_
 
 ## Skills and Certifications
 
-- Certified in Excel.
-- Proficient in VBA, C++, SQL, and Python.
+- Proficient in Excel, VBA, C++, SQL, and Python.
 - Completed multiple projects in R – Studio.
 
 <!-- ### Footer
